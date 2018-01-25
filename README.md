@@ -7,5 +7,5 @@ Car-eye 车联网管理开源系统提供一种开放性平台，方便方案公
 2. 平台 包括车辆管理系统，流媒体平台，各种云服务器
 3. 设备，包括各种手机APP,车载APP，网页网站，基于微信H5的客户端等
 整个系统构成了如下图：
-
+https://github.com/Car-eye-admin/doc/blob/master/%E8%BD%A6%E8%BE%86%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0.jpg
 
